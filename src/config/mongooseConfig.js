@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 import { categorySchema } from "../features/product/category.schema.js";
 
 dotenv.config();
-const url = process.env.DB_URL;
+const url = process.env.DB_URL || "mongodb://127.0.0.1:27017/ecomdb";
 export const connectUsingMongoose = async()=>{
     try{
         await mongoose.connect(url, {

@@ -389,3 +389,6 @@
  Mon Oct 09 2023 08:06:12 GMT+0530 (India Standard Time) - /api/likes - {"id":"6522f48d2c4519c9d41ce903","type":"Category"}
  Tue Dec 03 2024 01:52:32 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"adada","email":"a6@gmail.com","password":"adarshqwq@","type":"Customer"}
  Tue Dec 03 2024 01:53:22 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"user1","email":"user16@gmail.com","password":"adarshqwq@","type":"Customer"}
+ Tue Dec 03 2024 09:19:57 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"user1","email":"user16@gmail.com","password":"adarshqwq@","type":"Customer"}
+ Tue Dec 03 2024 09:45:41 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"user1","email":"user16@gmail.com","password":"adarshqwq@","type":"Customer"}
+ Tue Dec 03 2024 09:48:17 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"user2","email":"user2@gmail.com","password":"adarshqwq@","type":"Customer"}
