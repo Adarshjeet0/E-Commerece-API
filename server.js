@@ -66,7 +66,7 @@ server.use('/api/likes', jwtAuth, likeRouter)
 
 // 3. Default request handler
 server.get('/', (req, res) => {
-  res.status(200).send('Hurray! I have successfully deployed this application on AWS.');
+  res.status(200).send('Welcome to Ecommerce APIs');
 });
 
 // Error handler middleware!
