@@ -69,7 +69,7 @@ server.get('/', (req, res) => {
   res.send('Welcome to Ecommerce APIs');
 });
 
-// Error handler middleware
+// Error handler middleware!
 server.use((err, req, res, next) => {
   console.log(err);
   if(err instanceof mongoose.Error.ValidationError){
